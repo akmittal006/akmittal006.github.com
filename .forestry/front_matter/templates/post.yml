@@ -23,5 +23,5 @@ fields:
   name: comments
   label: comments
 pages:
-- _posts/second-blog.md
+- _posts/2019-10-20-second-blog.md
 - _posts/first-blog.md
