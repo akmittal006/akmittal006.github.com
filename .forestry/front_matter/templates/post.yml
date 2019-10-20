@@ -1,0 +1,32 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: list
+  name: categories
+  label: categories
+- type: boolean
+  name: comments
+  label: comments
+- type: field_group
+  name: image
+  label: image
+  fields:
+  - type: textarea
+    name: feature
+    label: feature
+  - type: text
+    name: credit
+    label: credit
+  - type: text
+    name: creditlink
+    label: creditlink
