@@ -5,7 +5,7 @@ excerpt: The first blog of my life
 categories:
 - general
 - life
-comments: true
+comments: false
 image:
   feature: ''
   credit: ''
