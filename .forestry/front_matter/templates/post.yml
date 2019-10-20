@@ -1,0 +1,29 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: author
+  label: author
+- type: boolean
+  name: comments
+  label: comments
+- type: field_group
+  name: image
+  label: image
+  fields:
+  - type: file
+    name: feature
+    label: feature
