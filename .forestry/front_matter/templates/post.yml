@@ -23,4 +23,5 @@ fields:
   name: comments
   label: comments
 pages:
+- _posts/second-blog.md
 - _posts/first-blog.md
