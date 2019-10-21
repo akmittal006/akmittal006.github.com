@@ -6,7 +6,7 @@
 title: Ankur Mittal
 email: akmittal006@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: /project # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
 #
