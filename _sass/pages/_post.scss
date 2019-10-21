@@ -30,7 +30,11 @@
 
 // Post Section
 section.post {
-	margin-bottom: 80px;
+  margin-bottom: 80px;
+  &:hover {
+    background: lighten($white, 1%);
+  }
+  
 }
 
 // Back home button
@@ -70,7 +74,7 @@ section.post {
   font-size: 13px;
   font-weight: bold;
 	.post-date {
-		color: $secondary;
+		color: #6DF0AE;
 	}
 	.post-author {
 		text-transform: uppercase;
