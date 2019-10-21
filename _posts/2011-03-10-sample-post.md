@@ -6,7 +6,10 @@ excerpt: 'Just about everything you''ll need to style in the theme: headings, pa
 categories:
 - hello world
 comments: true
-tags: [sample post, readability, test]
+tags:
+- sample post
+- readability
+- test
 image:
   feature: https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250
   credit: thomas shellberg
@@ -85,7 +88,7 @@ width: 100%;
 
 Make any link standout more when applying the `.btn` class.
 
-{% highlight html %}
+{% highlight![](/uploads/Screen Shot 2019-08-02 at 1.45.57 PM.png)![](/uploads/Screen Shot 2019-08-02 at 1.45.57 PM.png) html %}
 <a href="#" class="btn btn-success">Success Button</a>
 {% endhighlight %}
 
@@ -99,3 +102,7 @@ Make any link standout more when applying the `.btn` class.
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
 {: .notice}
+
+![](/uploads/Screen Shot 2019-08-02 at 1.45.57 PM.png)
+
+ccvdvdfvdfv
