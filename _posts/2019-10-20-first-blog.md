@@ -7,9 +7,9 @@ categories:
 - life
 comments: false
 image:
-  feature: ''
-  credit: ''
-  creditlink: ''
+  feature: 
+  credit: 
+  creditlink: 
 
 ---
 So this is what a blog looks like, I mean this is really cool stuff

@@ -46,7 +46,13 @@ section.post {
 
 // Post title
 .post-title {
-
+  color: white;
+	font-size: 1.8em;
+	margin-left: 0px;
+	&:hover,
+	&:focus {
+		color: darken(white, 15%);
+	}
 }
 
 .post-title-link {
@@ -55,7 +61,7 @@ section.post {
 	margin-left: 10px;
 	&:hover,
 	&:focus {
-		color: lighten($primary, 14%);
+		color: darken($primary, 50%);
 	}
 }
 
