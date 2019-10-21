@@ -88,7 +88,7 @@ width: 100%;
 
 Make any link standout more when applying the `.btn` class.
 
-{% highlight![](/uploads/Screen Shot 2019-08-02 at 1.45.57 PM.png)![](/uploads/Screen Shot 2019-08-02 at 1.45.57 PM.png) html %}
+{% highlight html %}
 <a href="#" class="btn btn-success">Success Button</a>
 {% endhighlight %}
 
