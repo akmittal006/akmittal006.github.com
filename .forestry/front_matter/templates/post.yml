@@ -23,4 +23,5 @@ fields:
   name: comments
   label: comments
 pages:
+- _posts/solve-bigquery-schema-problems-using-pandas.md
 - _posts/2019-10-20-second-blog.md
